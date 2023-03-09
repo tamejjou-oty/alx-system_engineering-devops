@@ -1,1 +1,1 @@
-Shell Permissione
+scripts for shell permissions
