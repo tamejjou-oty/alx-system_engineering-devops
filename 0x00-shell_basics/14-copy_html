@@ -1,2 +1,2 @@
 #!/bin/bash
-find "$cwd" -name "*.html" -type f -newer "$parent" -exec cp -n {} "$parent" \;
+cp -u *.html ..
